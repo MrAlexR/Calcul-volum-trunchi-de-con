@@ -11,7 +11,8 @@ MrAlexR ;)
 - Verificarea corectitudinii datelor introduse
 
 ## Vedere pricipala
-
-## Verificare data
-
+![tr1](https://user-images.githubusercontent.com/48644095/116819745-0f8a1700-ab7a-11eb-8cf2-6c1f66b9157e.PNG)
+## Verificare date
+![tr2](https://user-images.githubusercontent.com/48644095/116819746-1153da80-ab7a-11eb-8550-9d64b9c06db4.PNG)
 ## Validare date si calcul
+![tr3](https://user-images.githubusercontent.com/48644095/116819747-12850780-ab7a-11eb-8174-3a8f2272702f.PNG)
